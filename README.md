@@ -10,7 +10,7 @@ This project aims to analyze the social and technological factors that influence
 - `Awareness Level`
 
 ## Raw Dataset Link
-[Students.csv]([./Students.csv](https://www.kaggle.com/datasets/rakeshkapilavai/ai-tool-usage-by-indian-college-students-2025))
+[Students.csv](https://github.com/muhilhamfadly/student-performance-analysis/blob/main/Students.csv)
 
 ---
 
