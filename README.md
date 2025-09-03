@@ -14,7 +14,8 @@ This project aims to analyze the social and technological factors that influence
 - `Internet Access`
 
 ## Raw Dataset Link
-[Students.csv](https://github.com/muhilhamfadly/student-performance-analysis/blob/main/Students.csv)
+[Download dataset from this repository](https://github.com/muhilhamfadly/student-performance-analysis/blob/main/Students.csv)
+[Original dataset source (Kaggle)](https://www.kaggle.com/datasets/rakeshkapilavai/ai-tool-usage-by-indian-college-students-2025)
 
 ---
 
