@@ -6,8 +6,12 @@ This project aims to analyze the social and technological factors that influence
 - `Stream`
 - `Preferred AI Tool`
 - `Daily_Usage_Hours`
-- `Gender`
+- `Impact on Grades`
 - `Awareness Level`
+- `Trust in AI Tools`
+- `AI Tool Usage`
+- `Professors Allowing Use`
+- `Internet Access`
 
 ## Raw Dataset Link
 [Students.csv](https://github.com/muhilhamfadly/student-performance-analysis/blob/main/Students.csv)
@@ -15,9 +19,11 @@ This project aims to analyze the social and technological factors that influence
 ---
 
 ## Insight & Findings
-- **Stream Engineering** dominates AI tool usage, with **ChatGPT** as the top choice.
-- **Students with high internet usage hours** are more open to AI and are more likely to pay for premium services.
-- **Non-technical students (Arts, Humanities, etc.)** have low awareness of AI tools, resulting in uneven adoption.
+- **Engineering** students prefer coding-focused AI tools like **GitHub Copilot**, while **Business** and **Humanities** students rely more on **ChatGPT** for their academic needs.
+
+- Students who frequently use and trust AI tools show clearer academic improvements compared to those with low trust or irregular usage.
+
+- Strong professor support and reliable internet access significantly increase AI adoption rates across campuses, even among students with moderate awareness.
 
 ---
 
